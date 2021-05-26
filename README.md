@@ -1,1 +1,1 @@
-# photoshare-album
+Django is a Python based framework used to build complete web applications. Photo gallery also known as image gallery, media gallery or photo album is used to manage the photos. View the images one by one from a list of images in a gallery. Click on a particular photo to see the size of the thumbnail which is, by default, displayed in the gallery.
